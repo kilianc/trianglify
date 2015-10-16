@@ -33,8 +33,7 @@
   "homepage": "https://github.com/qrohlf/trianglify",
   "scripts": {
     "test": "mocha test/test.js",
-    "start": "node gulpfile.js",
-    "postinstall": "node scripts/postinstall.js"
+    "start": "node gulpfile.js"
   },
   "browser": {
     "jsdom": false,
